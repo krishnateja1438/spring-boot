@@ -29,4 +29,4 @@ steps:
   displayName: 'Azure App Service Deploy: springbootapp'
   inputs:
     azureSubscription: 'Visual Studio Enterprise – MPN (4170ffee-a940-479b-988c-50f869a6b94d)'
-    WebAppName: springbootapp
+    WebAppName: springbootapps
